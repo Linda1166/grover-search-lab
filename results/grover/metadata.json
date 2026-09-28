@@ -1,0 +1,16 @@
+{
+  "experiment": "Grover Search Lab",
+  "target": "101",
+  "qubits": 3,
+  "shots_per_circuit": 4096,
+  "seed": 123,
+  "max_iterations": 8,
+  "first_peak_choice": 2,
+  "python": "3.12.14",
+  "qiskit": "2.2.3",
+  "numpy": "2.3.5",
+  "max_absolute_theory_error": 1.1546319456101628e-14,
+  "backend": "Ideal Qiskit Statevector; NumPy multinomial sampling",
+  "hardware_run": false,
+  "note": "First-peak choice is not a global maximum across arbitrarily many iterations."
+}
